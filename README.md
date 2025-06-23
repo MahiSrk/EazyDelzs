@@ -52,7 +52,11 @@ Please note that the payment gateway section is created only for demonstration p
 ### 🔐 User Login Page
 ![User Login](screenshots/User_login.png)
 
-
+## 🚀 Future Enhancements
+- Product Reviews & Ratings: Allow users to leave feedback and rate products to build trust and guide other buyers.
+- Coupon & Discount System: Implement discount codes and promotional offers to boost user engagement and sales.
+- Chatbot or Live Support: Add real-time assistance via chatbot or live chat for better customer support.
+- Responsive Design Improvements: Enhance layout for better usability on mobile and tablet devices.
 
 
   
